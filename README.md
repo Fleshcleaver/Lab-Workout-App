@@ -35,7 +35,7 @@ workout_api/
 
 ```bash
 # 1. Clone the repo
-git clone <your-repo-url>
+git clone git@github.com:Fleshcleaver/Lab-Workout-App.git
 cd workout_api
 
 # 2. Install dependencies
